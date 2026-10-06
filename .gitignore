@@ -1,0 +1,11 @@
+# ambientes virtuais
+
+.env/
+.venv/
+
+#--------------------
+
+__pycache__/
+
+*.bak
+*~
